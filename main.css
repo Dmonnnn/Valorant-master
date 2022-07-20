@@ -78,8 +78,8 @@ nav > ul > li > a:hover {
     color: white;
     background-color: rgba(0, 0, 0, 0.6);
     width: 100%;
-    height: 200px;
-    padding: 20px;
+    height: 500px;
+    padding:10px;
 }
 
 /* Reviews section styles */
