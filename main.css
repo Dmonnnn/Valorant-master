@@ -26,7 +26,7 @@ a {
 
 .logo {
     display: inline-block;
-    font-family: 'Rock Salt';
+    font-family: 'VALORANT', sans-serif;
     font-size: 16px;
     line-height: 16px;
     color: white;
@@ -68,7 +68,7 @@ nav > ul > li > a:hover {
 
 /* Hero styles */
 .hero-review {
-    background-image: url(alaska.jpg);
+    background-image: url(https://afkgaming.com/esports/news/valorant-agent-18-neon-leaks-release-date-abilities-what-we-know-so-far);
     width: 1024px;
     height: 600px;
     padding-top: 400px;
