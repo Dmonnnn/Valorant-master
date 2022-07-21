@@ -26,7 +26,7 @@ a {
 
 .logo {
     display: inline-block;
-    font-family: 'VALORANT', sans-serif;
+    font-family: 'VALORANT', sans-serif; 
     font-size: 16px;
     line-height: 16px;
     color: white;
@@ -70,22 +70,15 @@ nav > ul > li > a:hover {
 .hero-review {
     background-image: url(https://images.firstpost.com/wp-content/uploads/2020/06/riot-games.jpg);
     width: 1024px;
-    height: 600px;
+    height: 550px;
     padding-top: 400px;
 }
 
-.hero-review > .hero-review-text {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.6);
-    width: 100%;
-    height: 500px;
-    padding:10px;
-}
 
 /* Reviews section styles */
 .review > .review-text {
     display: inline-block;
-    width: 790px;
+    width: 750px;
     margin-left: 30px;
 }
 
